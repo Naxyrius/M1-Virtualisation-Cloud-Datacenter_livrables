@@ -1,16 +1,14 @@
 # M1-Virtualisation-Cloud-Datacenter_livrables
 
-# Ce repos contient les notes et réponses aux question du TP : M1-Virtualisation-Cloud-Datacenter
+Ce repos contient les notes et réponses aux question du TP : M1-Virtualisation-Cloud-Datacenter
 
 ## Groupe de Travail 
 Axel Martinez Julien Zielona Leo Scholl Yann Compin
 
 
-# Livrables M1 - Virtualisation, Cloud et Datacenter
-
 Voici les différents comptes-rendus des travaux pratiques :
 
-# Livrables M1 - Virtualisation, Cloud et Datacenter
+## Livrables M1 - Virtualisation, Cloud et Datacenter
 
 | Fichier | Sujet du TP |
 | :--- | :--- |
